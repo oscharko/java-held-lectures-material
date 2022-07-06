@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/Insel_2_23_Compilation_Scripting/src/main/java/com/tutego/insel/script/JShellDemo.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.tutego.insel.script.JShellDemo"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="Insel_2_23_Compilation_Scripting"/>
+</launchConfiguration>

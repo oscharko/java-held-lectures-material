@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 7 elements to &apos;Inselprogramme&apos;&#x0D;&#x0A;- Original project: &apos;Insel_2_22_Security&apos;&#x0D;&#x0A;- Destination element: &apos;Inselprogramme&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     sign.bat&#x0D;&#x0A;     jaas.config&#x0D;&#x0A;     allper.policy&#x0D;&#x0A;     ullis.keystore&#x0D;&#x0A;     myPol.policy&#x0D;&#x0A;     Ullis.cer&#x0D;&#x0A;     runSecTest.bat&#x0D;&#x0A;- Update references to refactored element" description="Move files" destination="=Inselprogramme" element1="sign.bat" element2="jaas.config" element3="allper.policy" element4="ullis.keystore" element5="myPol.policy" element6="Ullis.cer" element7="runSecTest.bat" files="7" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1531779736617" units="0" version="1.0"/>
+</session>

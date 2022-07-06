@@ -1,0 +1,32 @@
+1536223745002	Rename local variable 'fieldName'
+1536223749061	Rename local variable 'fieldType'
+1536223790830	Rename local variable 'modifier'
+1536231326921	Rename local variable 'ressources'
+1536231344186	Rename local variable 'resources'
+1536232146306	Delete element
+1536238752341	Delete element
+1536243497362	Delete element
+1536243503381	Delete element
+1536243541280	Delete element
+1536243602419	Delete elements
+1536243635171	Delete elements
+1536243658353	Delete element
+1536244209338	Delete element
+1536244282841	Delete element
+1536244433810	Delete element
+1536245374732	Extract local variable 'childNodes'
+1536245587213	Rename local variable 'root'
+1536247807347	Rename local variable 'allGuests'
+1536249915227	Extract method 'extracted'
+1536249939832	Rename method 'printTree'
+1536249944917	Rename method 'dumpXmlTree'
+1536269673731	Rename local variable 'httpRequest'
+1536415442905	Rename local variable 'sb'
+1536415448970	Rename local variable 'sb'
+1536415492242	Rename local variable 'sb1'
+1536415529467	Rename local variable 'sb2'
+1536416786955	Delete element
+1536416800440	Extract local variable 'compare'
+1536494091077	Delete element
+1536494094185	Delete element
+1536510719285	Delete element

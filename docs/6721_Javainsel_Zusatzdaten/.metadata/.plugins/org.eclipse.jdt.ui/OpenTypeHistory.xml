@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.util.list{ListDemo.java[ListDemo" modifiers="1" timestamp="1536615047687"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.util.queue{PriorityQueueDemo.java[PriorityQueueDemo" modifiers="1" timestamp="1536863787745"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.util.queue{ImportanceComparator.java[ImportanceComparator" modifiers="16384" timestamp="1536865635529"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.util.queue{ImportanceComparatorDemo.java[ImportanceComparatorDemo" modifiers="1" timestamp="1536865636204"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.ui.table{SquareTableModelSimple.java[SquareTableModelSimple" modifiers="0" timestamp="1536947443729"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.ui.table{TableWithRowSorter.java[TableWithRowSorter" modifiers="1" timestamp="1536949231601"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.oop{ArrayCovariance.java[ArrayCovariance" modifiers="1" timestamp="1537086319284"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.object{UrlEquals.java[UrlEquals" modifiers="1" timestamp="1531862025158"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.util.concurrent{LoggingInQueue.java[LoggingInQueue" modifiers="1" timestamp="1487342874000"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.util{Primtest.java[Primtest" modifiers="1" timestamp="1537377689832"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.bean.veto{PersonWatcher.java[PersonWatcher" modifiers="1" timestamp="1503643436000"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.nested{Lamp.java[Lamp" modifiers="1" timestamp="1537958974038"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.services{Greeter.java[Greeter" modifiers="513" timestamp="1339175703000"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.generic{TypeRefDemo.java[TypeRefDemo" modifiers="1" timestamp="1541757770790"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.generic{WildcardCapture.java[WildcardCapture" modifiers="1" timestamp="1539021051287"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.math{Factorial.java[Factorial" modifiers="1" timestamp="1539076535541"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.assertion{AssertKeyword.java[AssertKeyword" modifiers="1" timestamp="1336826778000"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.lang{SetProperty.java[SetProperty" modifiers="0" timestamp="1541342069611"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.ui.graphics{Bee.java[Bee" modifiers="1" timestamp="1340133781000"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;{PointEqualsDemo.java[PointEqualsDemo" modifiers="0" timestamp="1541707022386"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;{Distances.java[Distances" modifiers="0" timestamp="1541707075463"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.oop{FuriousPete.java[FuriousPete" modifiers="1" timestamp="1541708066448"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.exception{FindAllEmailAddresses2.java[FindAllEmailAddresses2" modifiers="1" timestamp="1541708151170"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.exception{FindAllEmailAddresses.java[FindAllEmailAddresses" modifiers="1" timestamp="1541708171399"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.exception{Rethrow.java[Rethrow" modifiers="1" timestamp="1541708209742"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.exception{NestedException.java[NestedException" modifiers="1" timestamp="1531911438341"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.exception{NumberFormatExceptionElements.java[NumberFormatExceptionElements" modifiers="1" timestamp="1541708569646"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.exception.v2{PlayerException.java[PlayerException" modifiers="1" timestamp="1541708605207"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;{NullCheck.java[NullCheck" modifiers="1" timestamp="1336830186000"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.nested{OuterNest.java[OuterNest" modifiers="1" timestamp="1537464591716"/>
+    <typeInfo handle="=Spielwiese/src&lt;{T.java[T" modifiers="1" timestamp="1541765915449"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.generic{RocketsEmpty.java[RocketsEmpty" modifiers="1" timestamp="1541763563311"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.exception{CatchNumberFormatException.java[CatchNumberFormatException" modifiers="1" timestamp="1531862353412"/>
+    <typeInfo handle="=solutions/src\/main\/java&lt;com.tutego.insel.solutions.lang{SoManyCircles.java[SoManyCircles" modifiers="1" timestamp="1542215772041"/>
+    <typeInfo handle="=solutions/src\/main\/java&lt;com.tutego.insel.solutions.lang{MultiplicationTable.java[MultiplicationTable" modifiers="1" timestamp="1534835629664"/>
+    <typeInfo handle="=solutions/src\/main\/java&lt;com.tutego.insel.solutions.net{SimpleEliza.java[SimpleEliza" modifiers="1" timestamp="1534770598037"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;{SystemOutErr.java[SystemOutErr" modifiers="1" timestamp="1336318489000"/>
+    <typeInfo handle="=Inselprogramme/src\/main\/java&lt;com.tutego.insel.exception{MissNumberFormatException.java[MissNumberFormatException" modifiers="1" timestamp="1531865339128"/>
+</typeInfoHistroy>

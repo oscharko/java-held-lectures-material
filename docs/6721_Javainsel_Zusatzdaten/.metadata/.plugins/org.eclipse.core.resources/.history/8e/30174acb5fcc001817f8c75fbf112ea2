@@ -1,0 +1,41 @@
+﻿package com.tutego.insel.solutions.thread;
+
+import java.io.File;
+import java.nio.file.Path;
+import java.util.function.Consumer;
+
+public class FileChangeWatcher implements Runnable {
+  private final Path path;
+  private Consumer<File> callback;
+
+  public FileChangeWatcher( String filename, Consumer<File> callback ) {
+    this.callback = callback;
+    path = new File( filename );
+    new Thread( this ).start();
+  }
+
+  @Override
+  public void run() {
+    long oldLastModified = path.lastModified();
+
+    while ( true ) {
+      try {
+        Thread.sleep( 500 );
+      }
+      catch ( InterruptedException e ) {
+        throw new RuntimeException( e );
+      }
+
+      long lastModified = path.lastModified();
+      if ( oldLastModified != lastModified ) {
+        callback.accept( path );
+        oldLastModified = lastModified;
+      }
+    }
+  }
+
+  public static void main( String[] args ) {
+    Consumer<File> callback = f -> System.out.println( "Datei verändert " + f );
+    new FileChangeWatcher( "c:/datei.txt", callback );
+  }
+}

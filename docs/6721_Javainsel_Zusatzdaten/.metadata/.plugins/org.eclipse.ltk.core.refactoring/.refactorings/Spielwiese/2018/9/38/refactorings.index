@@ -1,0 +1,7 @@
+1537177369437	Rename type 'NestedClass1'
+1537177379194	Rename type 'NestedClass2'
+1537177388134	Rename method 'privateMethod'
+1537177396264	Rename method 'privateMethod'
+1537177399696	Rename method 'intern'
+1537177438430	Rename local variable 'nestlings'
+1537177622561	Inline local variable 'nestMembers'

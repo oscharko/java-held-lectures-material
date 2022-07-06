@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.tutego.insel.main","c":"Main","l":"main(String[])","url":"main-java.lang.String:A-"},{"p":"com.tutego.insel.main","c":"Main","l":"Main()"}]

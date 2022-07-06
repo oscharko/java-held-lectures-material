@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\Christian\Dropbox\Eigene_Dokumente\Insel\programme\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3543033180.index
+\solutions\src\main\java
+C:\Users\Christian\Dropbox\Eigene Dokumente\Insel\programme\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3543033180.index
+\solutions\src\main\java

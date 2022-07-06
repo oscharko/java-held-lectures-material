@@ -1,0 +1,6 @@
+1531677724856	Rename type '_JsonbDemo'
+1531678653195	Rename field 'ethics'
+1531678669534	Rename local variable 'frank'
+1531678712466	Inline local variable 'jsonb'
+1531678790893	Extract local variable 'create'
+1531678924452	Rename local variable 'jsonb'

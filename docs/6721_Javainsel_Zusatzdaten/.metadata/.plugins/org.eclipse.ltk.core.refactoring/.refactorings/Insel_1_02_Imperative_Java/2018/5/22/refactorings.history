@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Obama.java&apos; to &apos;Obama.java&apos;&#x0D;&#x0A;- Original project: &apos;Insel_1_02_Imperative_Java&apos;&#x0D;&#x0A;- Destination element: &apos;Obama.java&apos;&#x0D;&#x0A;- Original element: &apos;Obama.java&apos;" description="Copy compilation unit" destination="/&lt;{Obama.java" element1="/&lt;{Obama.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1527538373376" units="1" version="1.0"/>
+</session>

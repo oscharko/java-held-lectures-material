@@ -1,0 +1,14 @@
+public class T {
+
+  public static void main( String[] args ) {
+
+
+    
+  
+  }
+
+  // String[][] a = new String[1][2];
+  // a[0][0] = "a";
+  // System.out.println( a[0][0] );
+
+}

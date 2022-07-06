@@ -1,0 +1,5 @@
+1528629204384	Extract local variable 'x'
+1528629212628	Extract local variable 'x'
+1528629225391	Extract local variable 'x'
+1528629230308	Extract local variable 'x'
+1528647473964	Inline local variable 's'

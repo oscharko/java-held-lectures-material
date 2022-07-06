@@ -1,0 +1,11 @@
+@echo off
+PATH=C:\Programme\java\jdk-11\bin;%PATH%
+PATH="C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin";"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\";%PATH%
+call vcvarsall amd64
+@echo on
+
+cl -I"C:\Programme\java\jdk-9\include" -I"C:\Programme\java\jdk-9\include\win32"^
+ /MD^
+ /LD^
+ strlen.c^
+ -Festrlen.dll

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;inOneHourInstant&apos; in &apos;T.main(...)&apos; to &apos;inOneHour&apos;&#x0D;&#x0A;- Original project: &apos;Spielwiese&apos;&#x0D;&#x0A;- Original element: &apos;T.main(String[]).inOneHourInstant&apos;&#x0D;&#x0A;- Renamed element: &apos;inOneHourInstant&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;inOneHourInstant&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{T.java[T~main~\[QString;@inOneHourInstant!172!230!180!195!QInstant;!0!false" name="inOneHour" references="true" stamp="1536238580823" version="1.0"/>
+</session>

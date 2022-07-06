@@ -1,0 +1,5 @@
+1536700943578	Extract local variable 'totalMemory'
+1536700950529	Extract local variable 'freeMemory'
+1536700956135	Extract local variable 'maxMemory'
+1537112616109	Rename local variable 'k'
+1537112621880	Rename local variable 'key'

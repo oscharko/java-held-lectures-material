@@ -1,0 +1,9 @@
+1535572628225	Delete element
+1535631646021	Rename type 'MeinComparator'
+1535632537114	Delete element
+1535703642014	Extract local variable 'x'
+1535703667329	Extract constant '_2'
+1535703683031	Extract constant '_3'
+1535703743862	Extract method 'extracted'
+1535703777143	Inline local variable 'area'
+1535703803895	Inline method 'calcArea'
